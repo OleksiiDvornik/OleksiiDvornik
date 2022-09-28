@@ -2,7 +2,7 @@
 
 My name is Oleksii, I'm junior Front End Developer from Ukraine 🙂 
 
-I've recently graduated my studying and now ready to do some cool stuff. So if you are looking for someone who can help you with your web project, let's get in touch!
+I've recently graduated my studying and now I'm ready to do some cool stuff. So if you are looking for someone who can help you with your web project, let's get in touch!
 
 [![Linkedin Badge](https://img.shields.io/badge/-oleksiidvornik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexeydvornik/)](https://www.linkedin.com/in/oleksiidvornik/)
 [![Gmail Badge](https://img.shields.io/badge/-alexey.dvornik@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexey.dvornik@gmail.com)](mailto:alexey.dvornik@gmail.com)
